@@ -1,6 +1,6 @@
-# 📚 NLP FAQ Chatbot (File & Web Support)
+# NLP FAQ Chatbot (File & Web Support)
 
-## 🚀 Project Purpose
+##  Project Purpose
 
 This project is an NLP-powered chatbot that allows users to:
 - Upload `.pdf` or `.txt` files
@@ -11,16 +11,16 @@ It leverages modern language models and FAISS indexing for fast, accurate retrie
 
 ---
 
-## 🛠 How to Run the Code
+##  How to Run the Code
 
-### ✅ Requirements
+###  Requirements
 - Python 3.10+
 - Recommended IDE: VS Code or Jupyter
 - Tools used: Streamlit, FAISS, LangChain, PyMuPDF, BeautifulSoup
 
 ---
 
-### 🔧 Setup Instructions
+###  Setup Instructions
 
 #### 1. Clone the Repository:
 ```bash
